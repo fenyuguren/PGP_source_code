@@ -1,0 +1,274 @@
+﻿  PCBHeurstics.cpp
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(15,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(18,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(22,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(49,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(51,38): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(78,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(81,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(83,37): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(126,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(152,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(154,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(158,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(164,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(166,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(180,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(182,34): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(191,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(202,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(214,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(216,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(237,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(239,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(249,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(251,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(261,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(263,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(285,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(287,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(297,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(299,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(309,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(312,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(326,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(334,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(339,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(341,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(365,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(367,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(369,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(371,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(417,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(419,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(435,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(437,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(453,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(455,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(481,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(483,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(493,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(495,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(506,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(518,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(520,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(542,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(544,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(560,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(562,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(598,49): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(636,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(638,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(640,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(655,63): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(681,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(683,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(685,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(699,63): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(716,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(718,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(720,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(722,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(742,64): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(768,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(771,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(773,22): warning C4244: “=”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(774,27): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(782,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(783,34): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(794,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(796,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(809,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Com.h(818,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(9,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(15,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(27,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(29,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(101,50): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(131,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(133,41): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(154,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(160,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(176,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\HG.h(181,53): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(6,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(9,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(11,39): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(20,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(42,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(44,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(59,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(62,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(64,22): warning C4244: “=”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(73,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(74,50): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(81,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(96,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(98,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(118,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(120,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(138,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(141,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(143,42): warning C4244: “=”: 从“_Ty”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(152,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(153,34): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(163,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(166,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(168,22): warning C4244: “=”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(177,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(178,34): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(188,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(191,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(193,22): warning C4244: “=”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(202,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(203,34): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(210,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(213,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(215,39): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(224,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(245,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(247,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(289,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(305,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(307,42): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(330,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(346,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(348,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(364,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(366,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(375,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(377,90): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(446,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(469,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(471,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(500,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(502,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(524,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(546,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(570,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristic.h(593,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(9,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(35,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(42,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(71,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(91,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(93,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(117,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(132,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(134,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(154,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(160,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(173,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\NewHeuristics.h(175,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(4,49): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(9,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(28,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(41,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(65,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(117,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(119,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(135,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(140,33): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(155,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(170,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(172,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(176,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(188,84): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(208,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(232,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(247,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(249,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(254,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(258,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\Heuristics+LocalSearch.h(270,123): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(308,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(336,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(338,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(345,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(347,19): warning C4244: “=”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(354,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(356,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(368,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15561\Desktop\PCBGroupingVersion2_2\PCBHeurstics.cpp(378,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 514 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PCBGroupingVersion2.vcxproj -> C:\Users\15561\Desktop\PCBGroupingVersion2_2\Release\PCBGroupingVersion2.exe
